@@ -3,4 +3,4 @@ A new version of my website.
 
 # Credits
 
-font: [Rubik](https://github.com/googlefonts/rubik)
+Font: [Rubik](https://github.com/googlefonts/rubik)
